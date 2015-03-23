@@ -1,3 +1,7 @@
+# THIS PROJECT IS UNMAINTAINED
+
+## Feel free to fork and start your own version. :)
+
 # Haml Underscore Template Compiler
 
 This project is an addendum to the Underscore Template Compiler built by Jean-Sebastien Ney. You can follow my fork
